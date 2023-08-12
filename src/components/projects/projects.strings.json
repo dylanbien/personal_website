@@ -1,0 +1,31 @@
+{
+    "projects": [
+      {
+        "imageUrl": "projects/convocode.jpg",
+        "title": "Convocode",
+        "dateRange": "August 2022 - March 2023",
+        "bullets": [
+            "Collaborated with a dynamic team of six for seven months to successfully develop a full-stack website centered around creating and facilitating conversations about AI-generated code.",
+            "Took ownership and developed the backend architecture of the Convocode project, utilizing React and MongoDB, to create a robust and scalable web application featuring a REST API to enable seamless communication between the frontend and backend components",
+            "Implemented user authentication, leveraged OpenAI's API to request and retrieve AI-generated code, and integrated Algolia search functionality to enhance project discovery capabilities"
+        ]
+      },
+      {
+        "imageUrl": "projects/tiny-search-engine.jpg",
+        "title": "Tiny Search Engine",
+        "dateRange": "September 2021 - November 2021",
+        "bullets": [
+            "Created a simplified search engine in C which crawls websites, indexes words, and queries phrases"
+        ]
+      },
+      {
+        "imageUrl": "projects/motability.jpg",
+        "title": "Motability",
+        "dateRange": "May 2022 - June 2022",
+        "bullets": [
+            "Developed a Google Chrome Extension using React, NodeJS, and Javascript which allows users to be more aware of the time they spend online, be able to leverage time that they deem to be wasted and work towards accomplishing their goals"
+        ]
+      }
+    ]
+  }
+  

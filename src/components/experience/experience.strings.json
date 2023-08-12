@@ -1,0 +1,33 @@
+{
+    "experiences": [
+      {
+        "imageUrl": "experiences/designer.jpg",
+        "title": "Designer",
+        "dateRange": "June 2023 - Present",
+        "bullets": [
+            "Software Engineer Intern for Microsoft Designer, a new graphic design app that utilizes OpenAI's GPT and DALL·E models to generate customizable and professional social media posts, invitations, graphics, and more"
+        ]
+      },
+      {
+        "imageUrl": "experiences/sharepoint.jpg",
+        "title": "Sharepoint",
+        "dateRange": "June 2022 - September 2022",
+        "bullets": [
+            "Wrote an asynchronous function to support the existing synchronous action of copying folders in Microsoft SharePoint to unblock the ~7,000 monthly copy requests that get throttled",
+            "Leveraged C#, SQL server, and Powershell to create a timer service that copies the contents of a SharePoint folder in batches, maintains original folder metadata, times out and resumes, tracks percent progress, and displays errors",
+            "Optimized an existing functionality in Sharepoint to prevent high resource consumption from API calls, increase reliability, and improve user experience"
+        ]
+      },
+      {
+        "imageUrl": "experiences/lull.jpg",
+        "title": "Lull",
+        "dateRange": "July 2020 - June 2021",
+        "bullets": [
+            "Managed Lull's analytics workflow using DBT for SQL queries, table documentation and tests, and report scheduling",
+            "Worked with Marketing and Accounting to supervise and advance daily ELT process, ensure data and reports were accurate and reflected the needs of their users, and field report requests and develop the SQL to help them visualize the data they needed",
+            "Built, maintained, and deployed Python scripts that ingested data from Lull's marketing partner's into their data warehouse and orchestrated and connected the detached ELT segments of Lull's data process"
+        ]
+      }
+    ]
+  }
+  
