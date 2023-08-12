@@ -27,6 +27,14 @@
             "Worked with Marketing and Accounting to supervise and advance daily ELT process, ensure data and reports were accurate and reflected the needs of their users, and field report requests and develop the SQL to help them visualize the data they needed",
             "Built, maintained, and deployed Python scripts that ingested data from Lull's marketing partner's into their data warehouse and orchestrated and connected the detached ELT segments of Lull's data process"
         ]
+      },
+      {
+        "imageUrl": "experiences/dartmouth.jpg",
+        "title": "Dartmouth",
+        "dateRange": "March 2020 - June 2021",
+        "bullets": [
+            "Held office hours, led recitation sections, and graded projects and exams for Computer Science 10 "
+        ]
       }
     ]
   }

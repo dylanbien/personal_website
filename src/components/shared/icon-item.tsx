@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-scroll';
-import { iconItemStyles, iconContainerStyles, iconStyles } from './icon-item.styles';
+import { iconItemStyles, iconContainerStyles, iconStyles, textStyles } from './icon-item.styles';
 
 interface IIconItem {
   to: string;
@@ -12,7 +12,7 @@ interface IIconItem {
 const renderIconContent = (icon: JSX.Element, text: string) => (
   <div className={iconContainerStyles}>
     <span className={iconStyles}>{icon}</span>
-    <span className="text">{text}</span>
+    <span className={textStyles}>{text}</span>
   </div>
 );
 

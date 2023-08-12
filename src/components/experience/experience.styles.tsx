@@ -13,6 +13,7 @@ export const experienceStackStyles = mergeStyles({
   '@media (max-width: 750px)': {
     flexDirection: 'column',
   },
+  magin: '3rem'
 });
 
 export const titleStyles = mergeStyles({

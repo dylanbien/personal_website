@@ -24,8 +24,17 @@ export const iconContainerStyles = mergeStyles({
   maxHeight: '100%',
 });
   
-  export const iconStyles = mergeStyles({
-    fontSize: '30px', 
-    marginBottom: '.25rem', 
-  });
-  
+export const iconStyles = mergeStyles({
+  fontSize: '30px', 
+  '@media (max-width: 800px)': {
+    fontSize: '20px',
+  },
+  marginBottom: '.25rem', 
+});
+
+export const textStyles = mergeStyles({
+  fontSize: '30px', 
+  '@media (max-width: 800px)': {
+    fontSize: '20px',
+  },
+});
